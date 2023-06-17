@@ -3,7 +3,7 @@
 
 Sure! Here's a sample README.md file for your GitHub repository:
 
-                                𝐎𝐓𝐏 𝐅𝐨𝐫𝐦 𝐑𝐞𝐚𝐜𝐭 𝐀𝐩𝐩
+                                𝐎𝐓𝐏 𝐅𝐨𝐫𝐦 𝐑𝐞𝐚𝐜𝐭 𝐀𝐩𝐩:- https://otp-verification-chi.vercel.app/
                                 
 This is a simple React application that implements an OTP (One-Time Password) form. Users are required to enter a 6-digit OTP code. The application provides real-time validation and feedback to the user.
 
